@@ -10,12 +10,5 @@ Please refer to the [Official Nextcloud Talk for Android Repository](https://git
 
 ## Why does this exist? :sparkles:
 
-Because we needed MDM support and the position of the official app maintainers is that they do not want to provide enterprise level support. As the official app is licensed under GPLv3 they do not do provide any guarantees or are liable in any wayand neither does this version, but that is the official [reasoning](https://github.com/nextcloud/talk-android/pull/6381).
-
-
-## Credits :scroll:
-
-### Official Nextcloud Talk App
-
-- [Official Nextcloud Talk for Android Repository](https://github.com/nextcloud/talk-android)
-
+MDM support is a useful thing if you want to use Nextcloud Talk as an enterprise. The official maintainers do not want to provide enterprise-level support and feel they may be responsible if the app provides MDM support.
+As the official app is licensed under GPLv3, they provide no guarantees and assume no liability. Neither does this fork. You can find the original [reasoning here](https://github.com/nextcloud/talk-android/pull/6381).
